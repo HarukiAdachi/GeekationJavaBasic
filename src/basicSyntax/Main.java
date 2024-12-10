@@ -12,8 +12,8 @@ public class Main {
 		
 		
 		
-		int num1=3;
-		int num2=299;
+		int num1=299;
+		int num2=2;
 		
 		SpecialSkill.spacial(num1,num2);
 		
